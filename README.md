@@ -81,6 +81,30 @@ streamlit run app.py
 
 ---
 
+## Screenshots
+
+### Home
+
+![Home](images/home.png)
+
+---
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+### Candlestick Chart
+
+![Chart](images/chart.png)
+
+---
+
+### Forecast
+
+![Forecast](images/forecast.png)
+
 ## Author
 
 **Sai Chandana**
