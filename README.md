@@ -83,10 +83,6 @@ streamlit run app.py
 
 ## Screenshots
 
-### Home
-
-![Home](images/home.png)
-
 ---
 
 ### Dashboard
